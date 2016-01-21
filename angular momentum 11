@@ -1,0 +1,6 @@
+\newglossaryentry{angular momentum}
+{
+    name=angular momentum,
+    description={Angular momentum is the product of the moment of inertia of a body about an axis and its angular velocity with respect to the same axis. }
+}
+ 
