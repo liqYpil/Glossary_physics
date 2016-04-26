@@ -1,0 +1,5 @@
+\newglossaryentry{gas work}
+{
+name=Alpha Decay,
+    description={gas work is the work produced by gas pressure press container, its fomula is W=PV. The P is pressure and its unit is Pa, V is volume in m to the third. PV work is an important topic in chemical thermodynamics.}
+}
